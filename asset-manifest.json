@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/note-taker/static/css/main.796d6e1f.css",
+    "main.js": "/note-taker/static/js/main.08dad769.js",
+    "static/media/paper.jpg": "/note-taker/static/media/paper.6f8badc951678cc28cd6.jpg",
+    "index.html": "/note-taker/index.html",
+    "main.796d6e1f.css.map": "/note-taker/static/css/main.796d6e1f.css.map",
+    "main.08dad769.js.map": "/note-taker/static/js/main.08dad769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.796d6e1f.css",
+    "static/js/main.08dad769.js"
+  ]
+}
